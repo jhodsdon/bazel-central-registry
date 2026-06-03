@@ -1,0 +1,17 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "source.json": {
+            "url": "https://github.com/vincehodsdon/SwiftResources/releases/download/v0.4.0/source.json.intoto.jsonl",
+            "integrity": "sha256-kMuRHryeO71j952EDlO5r94sOzZF9C1JkOcIu/OwEqM="
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/vincehodsdon/SwiftResources/releases/download/v0.4.0/MODULE.bazel.intoto.jsonl",
+            "integrity": "sha256-HUydrmbSFDMkIzfZtltR42gwYzlQ20NiTDviwVlAHRs="
+        },
+        "rules_swift_resources-v0.4.0.tar.gz": {
+            "url": "https://github.com/vincehodsdon/SwiftResources/releases/download/v0.4.0/rules_swift_resources-v0.4.0.tar.gz.intoto.jsonl",
+            "integrity": "sha256-dCoBIh/pcm2lIEPTmVk4eqlIaDo0cJrEnEg/r8UU7bU="
+        }
+    }
+}
